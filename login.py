@@ -1,5 +1,7 @@
 # 소셜 로그인 및 로그인 UI 설정
 LOGIN_BUTTON_TEXT = "로긴"
+SESSION_EXPIRE_MINUTES = 30  # 30분 후 자동 로그아웃
+AUTO_LOGIN_ENABLED = False
 
 SUPPORTED_PROVIDERS = ["kakao"]
 
