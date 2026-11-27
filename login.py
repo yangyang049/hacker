@@ -1,5 +1,5 @@
 # 소셜 로그인 및 로그인 UI 설정
-LOGIN_BUTTON_TEXT = "로긴"
+LOGIN_BUTTON_TEXT = "로그인"
 
 SUPPORTED_PROVIDERS = ["kakao"]
 
